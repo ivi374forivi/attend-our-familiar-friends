@@ -1,0 +1,52 @@
+#-*- mode: git-ignore; -*-
+
+## FHS conventions
+###################
+#
+# /bin      - should contain the scripts that developers run
+# /etc      - should contain the configuration files for your project
+# /run      - should contain the pidfiles for your project
+# /lib      - should contain the libraries that developers use
+# /share    - should contain architecture-independent data
+# /var/lib  - should contain the data that your project modifies at runtime
+# /var/log  - should contain the logfiles that your project creates
+# /var/run  - should contain the pidfiles for your project (and is a link to ../run)
+# /var/tmp  - should contain the temporary files that your project creates
+#
+# See https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html for more information.
+
+*~
+*.sw[ponml]
+*.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+[Bb]in/
+[Ee]tc/
+[Ll]ib/
+[Rr]un/
+[Ss]hare/
+[Vv]ar/
+
+# Node conventions
+##################
+node_modules/
+npm-debug.log
+.npm
+.npmrc
+package-lock.json
+
+# esbuild conventions
+#####################
+.esbuild/
+
+# Vite conventions
+##################
+dist/
+.vite/
+.env.local
+.env.*.local
