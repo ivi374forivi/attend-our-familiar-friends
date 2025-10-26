@@ -130,10 +130,10 @@ The "little piggies" are now properly organized, tagged, and scheduled within a 
 
 ### Finding What You Need
 1. **Start here:** [README.md](../README.md)
-2. **Overview:** [docs/PROJECT.md](PROJECT.md)
-3. **Planning:** [docs/roadmap/](roadmap/)
-4. **Implementation:** [docs/technical/](technical/)
-5. **History:** [docs/archive/](archive/)
+2. **Overview:** [PROJECT.md](PROJECT.md)
+3. **Planning:** [roadmap/](roadmap/)
+4. **Implementation:** [technical/](technical/)
+5. **History:** [archive/](archive/)
 
 ### Understanding Versions
 - Check [CHANGELOG.md](../CHANGELOG.md) for version history
