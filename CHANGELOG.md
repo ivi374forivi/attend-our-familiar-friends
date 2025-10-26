@@ -50,11 +50,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Git Tags
 
-Tags have been created locally for version tracking:
-- `v0.1.0-docs-only` - Initial documentation collection (commit: 2550499)
-- `v0.2.0-organized` - Organized documentation structure (commit: df65356)
+Tags have been created for version tracking:
+- `v0.1.0-docs-only` - Initial documentation collection
+- `v0.2.0-organized` - Organized documentation structure
 
-**Note**: Tags need to be pushed to remote repository manually with: `git push origin --tags`
+Use `git tag -l -n9` to view all tags with their descriptions.
 
 ## Future Versions
 
