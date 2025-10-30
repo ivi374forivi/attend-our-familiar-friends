@@ -28,6 +28,45 @@ We're building a delightful daily experience for dog owners:
 - 💬 Social community features
 - 🤖 AI-powered content generation
 
+## 🛠️ Development
+
+### Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Run linter
+npm run lint
+
+# Preview production build
+npm run preview
+```
+
+### Project Structure
+
+```
+├── src/
+│   ├── components/
+│   │   ├── calendar/       # Calendar-related components
+│   │   ├── modals/         # Modal components
+│   │   └── ErrorBoundary.jsx
+│   ├── styles/
+│   │   └── globals.css     # Global styles and Tailwind
+│   ├── App.jsx             # Main application component
+│   └── index.jsx           # Application entry point
+├── docs/                   # Project documentation
+└── public/                 # Static assets
+```
+
+For detailed development guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## 📖 Getting Started
 
 1. Read the [Project Documentation](docs/PROJECT.md)
