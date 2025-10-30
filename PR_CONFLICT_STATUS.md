@@ -203,7 +203,7 @@ To prevent future conflicts:
 
 ## Next Steps
 
-1. Notify PR #4 author (@4444JPP) to update branch
+1. Notify PR #4 author to update branch (rebase or merge with current main)
 2. Monitor PR #5 status and schedule testing window for vite 7.x upgrade
 3. Allow PR #14 to proceed as draft
 4. Merge this documentation PR (#12) to preserve conflict analysis
