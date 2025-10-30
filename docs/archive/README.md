@@ -4,6 +4,9 @@ This directory contains previous versions and iterations of the project document
 
 ## 📚 Document Types
 
+### 🎯 Synthesis Document (Start Here!)
+**[SYNTHESIS.md](SYNTHESIS.md)** - Comprehensive summary of key insights across all distilled documents. **Read this first** for complete overview.
+
 ### ✨ Distilled Documents (Recommended Reading)
 Clean, organized summaries extracting key insights from original chat exports. **Start here** for quick understanding.
 
