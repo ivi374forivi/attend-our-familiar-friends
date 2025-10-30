@@ -63,11 +63,21 @@ For the remaining esbuild/vite vulnerabilities:
 ### 1. Content Security Policy (✅ Implemented)
 Added CSP meta tag to `index.html`:
 ```html
+<!-- Development CSP (relaxed for dev tools) -->
+<meta http-equiv="Content-Security-Policy" 
+      content="default-src 'self' 'unsafe-inline' 'unsafe-eval'; 
+               img-src 'self' https: data: blob:; 
+               connect-src 'self' https: wss: ws: http://localhost:* https://dog.ceo https://api.thecatapi.com; 
+               font-src 'self' data:;" />
+```
+
+**Production CSP Recommendation** (tighten before deploying):
+```html
 <meta http-equiv="Content-Security-Policy" 
       content="default-src 'self'; 
                img-src 'self' https: data:; 
-               script-src 'self' 'unsafe-inline'; 
-               style-src 'self' 'unsafe-inline'; 
+               script-src 'self'; 
+               style-src 'self'; 
                connect-src 'self' https://dog.ceo https://api.thecatapi.com; 
                font-src 'self' data:;" />
 ```
@@ -77,6 +87,8 @@ Added CSP meta tag to `index.html`:
 - Limits image sources to HTTPS only
 - Explicitly allows only required API endpoints
 - Prevents XSS attacks
+- Development version allows HMR and dev tools
+- Production version can be further hardened
 
 ### 2. Fetch Request Security (✅ Implemented)
 
