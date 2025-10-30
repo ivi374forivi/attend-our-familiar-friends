@@ -1,6 +1,6 @@
 ## Q:
 
-Do deep research on the Tenants and elements of compiler design
+Do deep research on the Tenets and elements of compiler design
 
 ## A:
 
