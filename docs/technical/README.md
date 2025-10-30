@@ -8,7 +8,7 @@ This directory contains technical documentation, architecture decisions, and bug
 - **[Custom Animal Photo Calendars](Custom-Animal-Photo-Calendars.md)** - Detailed specification for the photo calendar feature, including user upload functionality, image processing, and calendar generation
 
 ### Architecture & Design
-- **[Compiler Design Principles and Components](Compiler-Design-Principles-and-Components.md)** - Software architecture principles, component design patterns, and system structure considerations
+- **[Compiler Design Principles and Components](Compiler-Design-Principles-and-Components.md)** - Compiler design theory, including compiler phases, parsing techniques, and formal language/automata theory
 
 ### Bug Fixes & Issue Resolution
 - **[Fixing ReferenceError and Invalid React Child Errors in DogTearOffCalendar Component](Fixing-ReferenceError-and-Invalid-React-Child-Errors-in-DogTearOffCalendar-Component.md)** - Comprehensive bug fix documentation for React component issues
