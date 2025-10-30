@@ -7,8 +7,8 @@
 This roadmap sequences short-, mid-, and long-term efforts to evolve the DogTale Daily ecosystem.
 
 ## Phase 0 — Stabilize Knowledge Base (Week 0)
-- [x] Ingest legacy documentation into version control.
-- [x] Normalize AI handoff headers and footers.
+- [ ] Ingest legacy documentation into version control.
+- [ ] Normalize AI handoff headers and footers.
 - [ ] Automate ingestion of new uploads into `ChatPRD/` via watch scripts.
 - [ ] Define baseline analytics for document freshness (last modified SLAs).
 
