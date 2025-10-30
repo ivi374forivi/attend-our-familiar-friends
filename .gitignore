@@ -50,3 +50,16 @@ dist/
 .vite/
 .env.local
 .env.*.local
+
+# Zip archives
+*.zip
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
