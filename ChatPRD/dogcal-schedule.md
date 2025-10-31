@@ -410,7 +410,7 @@ This outline uses the documentation categories you provided, tailored for the "D
     
     *   _Character Style_: Defines the illustration style for dog avatars, inspired by the polished look of the `kota.co.uk` site.
         
-    *   _Animation Guidelines_: Specifies the physics and feel of animations. For example: "Profile pictures should drift gently as if floating in water, similar to the elements on the `preparetopioneer.com` experience." The "popping" can effect from `sloshseltzer.com` could be repurposed for when a user completes a daily goal.
+    *   _Animation Guidelines_: Specifies the physics and feel of animations. For example: "Profile pictures should drift gently as if floating in water, similar to the elements on the `preparetopioneer.com` experience." The "popping" effect from `sloshseltzer.com` could be repurposed for when a user completes a daily goal.
         
     *   _Visual Effects_: Details for particle effects, transitions, and other delightful visual feedback.
         
