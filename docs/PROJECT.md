@@ -35,12 +35,23 @@ Technical implementation details and bug fixes:
 - [Compiler Design Principles](technical/Compiler-Design-Principles-and-Components.md) - Architecture considerations
 
 ### 📦 Archive
-Previous iterations and version history:
-- [Dog Calendar v1](archive/dogcalv1.md) - First version
-- [Interactive Dog Calendar v2](archive/Interactive-Dog-Calendar-v2.md) - Second iteration
-- [Dog Care Schedule](archive/dogcal-schedule.md) - Schedule component iteration
-- [AI-Powered Dog Care Schedule](archive/AI-Powered-Dog-Care-Schedule.md) - AI schedule feature
-- [DogTale Daily App](archive/DogTale-Daily-Personalized-Dog-Calendar-App.md) - Early app concept
+Previous iterations and version history. **Start with distilled versions** for quick understanding:
+
+**Distilled Summaries** (Recommended):
+- [UI/UX Design Concepts](archive/DISTILLED-dogcalv1.md) - Mobile-first design, dual Dog/Cat calendar, AI features
+- [Technical Bug Fixes](archive/DISTILLED-Interactive-Dog-Calendar-v2.md) - React component debugging and resolutions
+- [AI-Powered Schedule](archive/DISTILLED-AI-Powered-Dog-Care-Schedule.md) - Interactive infographic, daily routine automation
+- [Product Vision](archive/DISTILLED-DogTale-Daily-Personalized-Dog-Calendar-App.md) - Complete pitch, "Freaky Friday" feature, Game Hub
+- [Design Research](archive/DISTILLED-dogcal-schedule.md) - Website analysis, technical stack, animation patterns
+
+**Original Raw Exports** (For complete historical record):
+- [Dog Calendar v1](archive/dogcalv1.md) - Raw chat: First version discussions
+- [Interactive Dog Calendar v2](archive/Interactive-Dog-Calendar-v2.md) - Raw chat: Second iteration
+- [Dog Care Schedule](archive/dogcal-schedule.md) - Raw chat: Schedule component iteration
+- [AI-Powered Dog Care Schedule](archive/AI-Powered-Dog-Care-Schedule.md) - Raw chat: AI schedule feature
+- [DogTale Daily App](archive/DogTale-Daily-Personalized-Dog-Calendar-App.md) - Raw chat: Early app concept
+
+See [Archive README](archive/README.md) for detailed guide to all archive documents.
 
 ## Key Features (Planned)
 
