@@ -4,6 +4,9 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Relaxed CSP for development. Tighten for production deployment -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' https: data: blob:; connect-src 'self' https: wss: ws: http://localhost:* https://dog.ceo https://api.thecatapi.com; font-src 'self' data:;" />
+    <meta name="description" content="Your daily dose of dog joy - a personalized dog calendar app" />
     <title>DogTale Daily - Your Daily Dose of Joy</title>
   </head>
   <body>
