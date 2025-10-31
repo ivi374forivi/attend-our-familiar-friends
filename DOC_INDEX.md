@@ -11,7 +11,6 @@ The table below maps each knowledge artifact to its core focus and recommended u
 | [AI-Powered Dog Care Schedule.md](ChatPRD/AI-Powered Dog Care Schedule.md) | Scheduling features and AI care recommendations | Reference for feature planning and agent context. |
 | [ChatPRD-AI-for-Product-Managers-AI-Product-Management-Support.md](ChatPRD/ChatPRD-AI-for-Product-Managers-AI-Product-Management-Support.md) | AI product management support for PMs | Reference for feature planning and agent context. |
 | [ChatPRD-AI-for-Product-Managers-Dog-Calendar-App-Roadmap.md](ChatPRD/ChatPRD-AI-for-Product-Managers-Dog-Calendar-App-Roadmap.md) | Roadmap for Dog Calendar App development | Reference for feature planning and agent context. |
-| [Compiler-Design-Principles-and-Components.md](ChatPRD/Compiler-Design-Principles-and-Components.md) | Principles and components of compiler design | Reference for feature planning and agent context. |
 | [Custom Animal Photo Calendars.md](ChatPRD/Custom Animal Photo Calendars.md) | Features for custom animal photo calendars | Reference for feature planning and agent context. |
 | [Dog Calendar Fixing toggleFavorite and Invalid React Child Errors.md](ChatPRD/Dog Calendar Fixing toggleFavorite and Invalid React Child Errors.md) | Debugging React errors in Dog Calendar | Reference for feature planning and agent context. |
 | [DogTale Daily Personalized Dog Calendar App.md](ChatPRD/DogTale Daily Personalized Dog Calendar App.md) | Personalized dog calendar app features | Reference for feature planning and agent context. |
