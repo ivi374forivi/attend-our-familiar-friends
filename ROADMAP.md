@@ -15,7 +15,8 @@ This roadmap sequences short-, mid-, and long-term efforts to evolve the DogTale
 ## Phase 1 — Product Foundations (Weeks 1-4)
 - **Requirement Harmonization:** Consolidate overlapping PRDs into a single canonical Dog Calendar specification.
 - **Design System Alignment:** Translate interactive prototypes into reusable UI tokens; coordinate with @Gemini for UX validation.
-- **Technical Spike:** @Copilot and OS-Agents to prototype React Native/Next.js hybrid delivering calendar + reminder flows.
+- **Technical Spike:** @Copilot and OS-Agents to prototype React Native/Next.js hybrid delivering calendar + reminder flows.  
+  _(Note: These agents are part of the agent orchestration model. See `AGENT_ORCHESTRATION.md` for details.)_
 - **Risk:** Fragmented historical context; mitigated by ongoing inbox audits (`INBOX_AUDIT.md`).
 
 ## Phase 2 — Feature Delivery (Weeks 5-10)
